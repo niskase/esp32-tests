@@ -13,6 +13,7 @@
 ## Number keys
 
 | Key | Hex |
+| :--- | :--- |
 | 1 | 0xDC23F609 |
 | 2 | 0xDC23F609 |
 | 3 | 0xD827F609 |
@@ -29,6 +30,7 @@
 ## Top-middle keys
 
 | Key | Hex |
+| :--- | :--- |
 | VOLUME UP | 0xFA05F609 |
 | VOLUME DOWN | 0xF807F609 |
 | FAV | 0xC23DF609 |
@@ -40,6 +42,7 @@
 ## Middle keys
 
 | Key | Hex |
+| :--- | :--- |
 | MENU | 0x7887F609 |
 | GUIDE | 0xA957F609 |
 | Q.MENU | 0x748BF609 |
@@ -55,6 +58,7 @@
 ## Bottom keys
 
 | Key | Hex |
+| :--- | :--- |
 | RED | 0x1AE5F609 |
 | GREEN | 0x1CE3F609 |
 | YELLOW | 0x38C7F609 |
