@@ -3,6 +3,7 @@
 ## Remote top keys
 
 | Key | Hex |
+| :--- | :--- |
 | POWER | 0xEE11F609 |
 | ENERGY | 0xD52BF609 |
 | TV/PC | 0x5EA1F609 |
