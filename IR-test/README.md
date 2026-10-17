@@ -38,7 +38,7 @@ I used IR LED that was disassembled from old JVC remote. I also used 330 ohm res
 
 ## DunWore XP 2000W Remote
 
-![DunWore XP 2000W Remote](remote_images/DunWoreXP2000Remote.jpg)
+![DunWore XP 2000W Remote](remote_images/DunWoreXP2000Remote.jpg =100x20)
 
 - [DunWore XP 2000W Remote key bindings](DunWore_XP_2000W_key_bindings.md)
 
