@@ -8,6 +8,13 @@ signals from IR receiver and converts them to hex format.
 - [Code](IR-test/IR-test.ino)
 - [LG Remote key bindings](LG_AKB72915269_key_bindings.md)
 
+# IR Sender
+
+This code send IR command (LG PWR BUTTON) via GPIO 4.
+I used IR LED that was disassembled from old JVC remote. I also used 330 ohm resistor between VDC/VCC (3V3) and IR LED.
+
+- [Code](IR-sender/IR-sender.ino)
+
 ## Wiring diagram
 
 ![Diagram](diagram.png)
