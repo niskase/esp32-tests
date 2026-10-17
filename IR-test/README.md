@@ -14,6 +14,7 @@ This code send IR command (LG PWR BUTTON) via GPIO 4.
 I used IR LED that was disassembled from old JVC remote. I also used 330 ohm resistor between VDC/VCC (3V3) and IR LED.
 
 ![Sender circuit diagram](diagram_sender.png)
+
 *Schematic created using [CircuitLab](https://circuitlab.com).*
 
 - [Code](IR-sender/IR-sender.ino)
