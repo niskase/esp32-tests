@@ -51,15 +51,6 @@ void loop() {
       Serial.print("Code received, hex: 0x");
       Serial.println(commandCode, HEX);
 
-      // Example remote: LG AKB72915269
-
-      if (commandCode == 0xDC23F609) {  // LG remote button 1
-        Serial.println("-> Button 1 pressed!");
-      } 
-      else if (commandCode == 0xDA25F609) {  // LG remote button 2
-        Serial.println("-> Button 2 pressed!");
-      }
-
       // and so on...
       
     }
