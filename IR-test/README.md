@@ -9,7 +9,7 @@ signals from IR receiver and converts them to hex format.
 
 ## Wiring diagram
 
-![Diagram](diagram.png)
+<img src="diagram.png" width="300" alt="IR Receiver wiring diagram">
 
 ### Relay controller
 
@@ -17,7 +17,7 @@ Same than above, but pressing remote button 1 turns relay on and button 2 turns 
 
 - [Code](IR-relay-controller/IR-relay-controller.ino)
 
-![Diagram](diagram2.png)
+<img src="diagram2.png" width="300" alt="IR Receiver and Relay controller wiring diagram">
 
 # IR Sender
 
@@ -38,7 +38,7 @@ I used IR LED that was disassembled from old JVC remote. I also used 330 ohm res
 
 ## DunWore XP 2000W Remote
 
-<img src="remote_images/DunWoreXP2000Remote.jpg" height="100" alt="DunWore XP 2000W Remote">
+<img src="remote_images/DunWoreXP2000Remote.jpg" height="200" alt="DunWore XP 2000W Remote">
 
 - [DunWore XP 2000W Remote key bindings](DunWore_XP_2000W_key_bindings.md)
 
