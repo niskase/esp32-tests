@@ -1,4 +1,4 @@
-# IR Receiver test
+# IR Receiver
 
 Just tested how to reveice IR signals from a remote.
 
@@ -7,6 +7,18 @@ signals from IR receiver and converts them to hex format.
 
 - [Code](IR-test/IR-test.ino)
 - [LG Remote key bindings](LG_AKB72915269_key_bindings.md)
+
+## Wiring diagram
+
+![Diagram](diagram.png)
+
+### Relay controller
+
+Same than above, but pressing remote button 1 turns relay on and button 2 turns relay off.
+
+- [Code](IR-relay-controller/IR-relay-controller.ino)
+
+![Diagram](diagram2.png)
 
 # IR Sender
 
@@ -19,15 +31,3 @@ I used IR LED that was disassembled from old JVC remote. I also used 330 ohm res
 
 *Schematic created using [CircuitLab](https://circuitlab.com).*
 
-
-## Wiring diagram
-
-![Diagram](diagram.png)
-
-# Relay controller
-
-Same than above, but pressing remote button 1 turns relay on and button 2 turns relay off.
-
-- [Code](IR-relay-controller/IR-relay-controller.ino)
-
-![Diagram](diagram2.png)
